@@ -1,3 +1,3 @@
 ## Initial setup
 
-Nextjs, Typescript, ESLint, Prettier
+Nextjs, ChakraUI, Typescript, ESLint, Prettier
